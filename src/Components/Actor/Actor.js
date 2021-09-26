@@ -26,7 +26,7 @@ const Actor = (props) => {
             <div>
                 <button
                     onClick={() => props.handleAddtoCart(props.actor)}
-                    className="btn-cart"> {shoppingCart} Add to Cart</button>
+                    className="btn-cart"> {shoppingCart} Select</button>
             </div>
             <div className="social-icons">
                 <p>{facebook}</p>

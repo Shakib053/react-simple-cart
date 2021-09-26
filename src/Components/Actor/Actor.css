@@ -12,10 +12,10 @@
   text-align: left;
 }
 .btn-cart {
-  padding: 7px;
+  padding: 10px;
   font-size: 15px;
   font-weight: bold;
-  border-radius: 10%;
+  border-radius: 20%;
   background-color: #fd3f78;
   cursor: pointer;
 }
