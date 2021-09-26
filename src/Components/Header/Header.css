@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Play&display=swap");
+.header {
+  background-color: rgb(223, 208, 223);
+  padding: 30px;
+  margin: 25px;
+}
+.header h1,
+h4 {
+  text-align: center;
+}
+.header p {
+  font-family: "Play", sans-serif;
+  font-size: 20px;
+  text-align: justify;
+  word-spacing: 5px;
+}
+.span {
+  color: #e72158;
+  font-size: 20px;
+}

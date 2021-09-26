@@ -1,0 +1,13 @@
+.container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  padding: 50px;
+  text-align: center;
+}
+.actors-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.purchase {
+  color: #c70039;
+}

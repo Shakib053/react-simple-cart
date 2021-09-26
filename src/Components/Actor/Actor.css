@@ -1,0 +1,28 @@
+.single-actor {
+  background-color: #dfe7eb;
+  padding: 10px;
+  margin: 17px;
+  border: 2px solid gray;
+  border-radius: 20px;
+}
+.bold {
+  font-weight: bold;
+}
+.actor-details {
+  text-align: left;
+}
+.btn-cart {
+  padding: 7px;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 10%;
+  background-color: #fd3f78;
+  cursor: pointer;
+}
+.social-icons {
+  display: flex;
+  justify-content: space-around;
+}
+.social-icons p {
+  cursor: pointer;
+}
