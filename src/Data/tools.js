@@ -4,7 +4,7 @@ const tools = [
         img: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Tom_Hanks_TIFF_2019.jpg',
         birthplace: 'Concord, California, U.S.',
         Age: 65,
-        networth: 150000,
+        networth: 980000,
         Years: '1977–present',
         industry: 'Hollywood'
     }
