@@ -2,7 +2,7 @@ const tools = [
     {
         name: 'Tom Hanks',
         img: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Tom_Hanks_TIFF_2019.jpg',
-        birthplace: 'Concord, California, U.S.',
+        birthplace: 'Concord, California, U.S.A',
         Age: 65,
         networth: 980000,
         Years: '1977–present',
